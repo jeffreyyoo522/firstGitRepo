@@ -1,3 +1,5 @@
 This is the firstGit attempt.
 Hopefully this will help me understand the wonders and the powerful potential of git......
-GIT AT Me
+GIT AT ME
+
+New Entry for firstGit
